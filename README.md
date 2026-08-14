@@ -150,6 +150,15 @@ The report incorporates:
 
 **Skills demonstrated:** Data Cleaning, Data Modelling, KPI Development, Time Intelligence, Business Analysis, Data Visualisation, Interactive Reporting, Drill-through Analysis
 
+## Data Source
+
+This project uses the **Product Sales by Region** synthetic practice dataset provided by Excelx.
+
+- **Records:** 1,500 synthetic sales transactions
+- **Licence:** CC0
+- **Source:** [Excelx — Sales & Retail Practice Data](https://excelx.com/practice-data/sales-retail/)
+
+The dataset is intended for learning, dashboard development and portfolio practice.
 
 ## Repository Structure
 
